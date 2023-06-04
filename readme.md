@@ -1,0 +1,1 @@
+- https://yathu.github.io/AppsInfo/Just%20Quotes/privacyPolicy.html
