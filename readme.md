@@ -1,1 +1,3 @@
 - https://yathu.github.io/AppsInfo/Just%20Quotes/privacyPolicy.html
+- https://yathu.github.io/AppsInfo/ayurvedic_app/index.html
+- https://yathu.github.io/AppsInfo/expense_tracker/privacy-policy.html
